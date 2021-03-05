@@ -16,4 +16,4 @@ docker-compose up -d
 ```
 3. Abrir o navegador no endereço http://localhost:8080 (**nginx**)
 
-A cada nova requisição na página é gravado o nome no Banco de dados(**mysql**) e apresentado no navegador pelo **nodejs**.
+A cada nova requisição na página é gravado o nome no Banco de dados(**mysql**) e apresentado as informações no navegador com o auxílio do **nodejs**.
